@@ -1,5 +1,6 @@
 # zoots-thing
-<center>This is Faded</center>
+This is Faded
+_________________________________________________________
 You were the shadow to my light
 Did you feel us?
 Another star
@@ -59,3 +60,4 @@ So lost, I'm faded
 _________________________________________________________
 
 Hello world, this is Alan Walker!
+I like TRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAINS!
