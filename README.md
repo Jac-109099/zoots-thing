@@ -1,5 +1,5 @@
 # zoots-thing
-This is Faded
+This is Faded, by Alan Walker... Enjoy!
 _________________________________________________________
 You were the shadow to my light
 Did you feel us?
@@ -61,3 +61,4 @@ _________________________________________________________
 
 Hello world, this is Alan Walker!
 I like TRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAINS!
+Cupcake: BUT I WANNA DIE!, EAT ME!
